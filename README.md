@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjayjosh18
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning DSA and java
+- 🌱 I’m currently learning PYTHON,JAVA,HTML/CSS,JS.
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me sanjayjoshlinked@gmail.com
 
